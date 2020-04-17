@@ -15,6 +15,9 @@
         <a href="https://github.com/sergioska" target="_blank" class="social">
           <font-awesome-icon :icon="['fab', 'github']" size="1x"/> github
         </a>
+        <a href="https://speakerdeck.com/sergioska" target="_blank" class="social">
+          <font-awesome-icon :icon="['fab', 'speaker-deck']" size="1x"/> speaker-deck
+        </a>
         <a href="https://twitter.com/sergioska" target="_blank" class="social">
           <font-awesome-icon :icon="['fab', 'twitter']" size="1x"/> twitter
         </a>
