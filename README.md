@@ -1,6 +1,6 @@
 # sergiosicari.github.io-nuxt
 
-> My mind-blowing Nuxt.js project
+> This is my personal website. It's a project nuxt.js based
 
 ## Build Setup
 
