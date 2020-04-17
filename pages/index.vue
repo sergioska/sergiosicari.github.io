@@ -10,13 +10,13 @@
       </h2>
       <div>
         <a href="https://www.linkedin.com/sergiosicari" target="_blank" class="social">
-          <font-awesome-icon :icon="['fab', 'linkedin']" size="2x"/>
+          <font-awesome-icon :icon="['fab', 'linkedin']" size="1x"/> linkedin
         </a>
         <a href="https://github.com/sergioska" target="_blank" class="social">
-          <font-awesome-icon :icon="['fab', 'github']" size="2x"/>
+          <font-awesome-icon :icon="['fab', 'github']" size="1x"/> github
         </a>
         <a href="https://twitter.com/sergioska" target="_blank" class="social">
-          <font-awesome-icon :icon="['fab', 'twitter']" size="2x"/>
+          <font-awesome-icon :icon="['fab', 'twitter']" size="1x"/> twitter
         </a>
       </div>
     </div>
@@ -49,14 +49,14 @@ export default Vue.extend({
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 100px;
+  font-size: 70px;
   color: #212529;
   letter-spacing: 1px;
 }
 
 .subtitle {
   font-weight: 300;
-  font-size: 42px;
+  font-size: 25px;
   color: #212529;
   word-spacing: 5px;
   padding-bottom: 15px;
