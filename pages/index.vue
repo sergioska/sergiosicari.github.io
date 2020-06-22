@@ -6,7 +6,7 @@
         Sergio Sicari
       </h1>
       <h2 class="subtitle">
-        Software engineer with several year of experience in software development, mainly in PHP stack
+        Computer science Engineer with several year of experience in software development, mainly on the backend side also on DevOps tasks. I follow with much interest everything around the web development scene studying constantly last news and best practice.
       </h2>
       <div>
         <a href="https://www.linkedin.com/sergiosicari" target="_blank" class="social">
