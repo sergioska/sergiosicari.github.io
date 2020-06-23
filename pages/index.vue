@@ -21,6 +21,9 @@
         <a href="https://twitter.com/sergioska" target="_blank" class="social">
           <font-awesome-icon :icon="['fab', 'twitter']" size="1x"/> twitter
         </a>
+        <a href="https://medium.com/@sergiosicari" target="_blank" class="social">
+          <font-awesome-icon :icon="['fab', 'medium']" size="1x"/> medium
+        </a>
       </div>
     </div>
   </div>
