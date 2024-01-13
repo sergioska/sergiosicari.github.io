@@ -24,6 +24,9 @@
         <a href="https://medium.com/@sergiosicari" target="_blank" class="social">
           <font-awesome-icon :icon="['fab', 'medium']" size="1x"/> medium
         </a>
+        <a href="https://huggingface.co/sergioska" target="_blank" class="social">
+          <font-awesome-icon :icon="['fab', 'huggingface']" size="1x"/> medium
+        </a>
       </div>
     </div>
   </div>
